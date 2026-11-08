@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 # Hi, I'm Yisakor Shimelis 👋
-### Supply Chain Data Analyst | Database & BI Specialist          
+### Data Analyst | Database & BI Specialist          
 
 [![SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://microsoft.com)
 [![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
