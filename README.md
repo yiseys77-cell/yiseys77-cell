@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 # Hi, I'm Yisakor Shimelis 👋
-### Supply Chain Data Analyst | SQL & Database Architecture Specialist          
+### Supply Chain Data Analyst | Database & BI Specialist          
 
 [![SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://microsoft.com)
 [![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 I specialize at the intersection of **Logistics & Supply Chain Management** and **Database Systems Engineering**. I design relational schemas, write production T-SQL/MySQL analytics scripts, clean complex operational datasets, and build executive BI dashboards that translate supply chain data into operational efficiency.
 
 - 🎓 **Education:** B.S. in Logistics & Supply Chain Management (AAU School of Commerce)
-- 📜 **Certifications:** ALX Data Analytics Professional Certificate | Database Management Systems Certification
+- 📜 **Certifications:** ALX Data Analytics Professional Certificate | AAU Database Management Systems Certification
 - 🎯 **Core Focus:** ERP/WMS Reconciliation, Data Pipeline Automation (ETL), Inventory Control Analytics, OTIF & DSI Metrics
 
 ---
